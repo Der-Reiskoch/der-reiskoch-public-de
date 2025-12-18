@@ -1,1 +1,1 @@
-(()=>{var a=()=>{fetch("/index.json",{method:"get"}).then(a=>a.json()).then(a=>{let b=a.length-1,c=Math.floor(Math.random()*b)+1;if(c<=b){let b=a[c];b&&(window.location.href=b.u)}}).catch(a=>{console.error(a)})},b=a;b()})()
+(()=>{var a=()=>{fetch("/index.json",{method:"get"}).then(o=>o.json()).then(o=>{let t=o.length-1,n=Math.floor(Math.random()*t)+1;if(n<=t){let e=o[n];e&&(window.location.href=e.u)}}).catch(o=>{console.error(o)})},m=a;m();})();
