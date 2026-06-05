@@ -13,9 +13,9 @@ Der Blog umfasst Rezepte, Zutaten-Guides, Wissenswertes, ein kulinarisches Tageb
 - [Wissenswertes](https://www.der-reiskoch.de/wissenswertes/): Artikel und Guides rund um die asiatische Küche
 - [Tagebuch](https://www.der-reiskoch.de/tagebuch/): Monatliches Tagebuch mit Entdeckungen und Restaurantbesuchen
 - [Thai Food Festivals](https://www.der-reiskoch.de/thai-festivals/): Kalender für Thai-Food-Events in Deutschland
-- [Reisen](https://www.der-reiskoch.de/reisen/): Food-Reiseartikel aus asiatischen Ländern
+- [Reisen](https://www.der-reiskoch.de/reisen/): Food-Reiseartikel
 
-## Thai Food Highlights
+## Thai Food Know How
 
 - [Meine 24 liebsten Thai-Gerichte](https://www.der-reiskoch.de/wissenswertes/meine-24-liebsten-thai-gerichte/): Überblick über 24 Lieblingsgerichte der Thai-Küche
 - [Lexikon für thailändische Gerichte](https://www.der-reiskoch.de/wissenswertes/lexikon-fuer-thailaendische-gerichte/): Glossar der Thai-Gerichte
@@ -38,7 +38,7 @@ Der Blog umfasst Rezepte, Zutaten-Guides, Wissenswertes, ein kulinarisches Tageb
 - [24 Kochbücher aus meinem Bücherregal](https://www.der-reiskoch.de/wissenswertes/24-kochbuecher-aus-meinem-buecherregal/): Kochbuchempfehlungen
 - [Einige Geschenkideen für Hobbyköche](https://www.der-reiskoch.de/wissenswertes/einige-geschenkideen-fuer-hobbykoeche/): Geschenkideen für Kochbegeisterte
 
-## Zutaten & Speisekammer
+## Asiatische Zutaten
 
 - [Zutatenliste von A bis Z](https://www.der-reiskoch.de/zutaten/zutatenliste-von-a-bis-z/): Vollständiger A–Z-Index asiatischer Zutaten
 - [Ein paar Worte über Fischsoße](https://www.der-reiskoch.de/zutaten/ein-paar-worte-uber-fischsosse/): Guide zu Fischsoßen-Varianten
