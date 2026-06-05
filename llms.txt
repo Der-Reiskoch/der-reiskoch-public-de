@@ -1,0 +1,48 @@
+# Der Reiskoch
+
+> Deutschsprachiger Food-Blog über asiatische Küche (Schwerpunkt Thai), von Jens Ihrig.
+> Die englische Version ist unter https://en.der-reiskoch.de/ verfügbar.
+
+Der Blog umfasst Rezepte, Zutaten-Guides, Wissenswertes, ein kulinarisches Tagebuch und einen Thai-Food-Festival-Kalender. Behandelte Regionalküchen sind unter anderem Thai, Birmanisch, Khmer, Shan sowie weitere süd- und ostasiatische Küchen.
+
+## Sektionen
+
+- [Rezepte](https://www.der-reiskoch.de/rezepte/): Asiatische Rezepte aus aller Welt
+- [Zutaten](https://www.der-reiskoch.de/zutaten/): Wichtige asiatische Zutaten
+- [Zutaten A–Z](https://www.der-reiskoch.de/zutaten/a-z/): Alphabetischer Zutaten-Index
+- [Wissenswertes](https://www.der-reiskoch.de/wissenswertes/): Artikel und Guides rund um die asiatische Küche
+- [Tagebuch](https://www.der-reiskoch.de/tagebuch/): Monatliches Tagebuch mit Entdeckungen und Restaurantbesuchen
+- [Thai Food Festivals](https://www.der-reiskoch.de/thai-festivals/): Kalender für Thai-Food-Events in Deutschland
+- [Reisen](https://www.der-reiskoch.de/reisen/): Food-Reiseartikel aus asiatischen Ländern
+
+## Thai Food Highlights
+
+- [Meine 24 liebsten Thai-Gerichte](https://www.der-reiskoch.de/wissenswertes/meine-24-liebsten-thai-gerichte/): Überblick über 24 Lieblingsgerichte der Thai-Küche
+- [Lexikon für thailändische Gerichte](https://www.der-reiskoch.de/wissenswertes/lexikon-fuer-thailaendische-gerichte/): Glossar der Thai-Gerichte
+- [Ahaan Thai Food Wörterbuch](https://www.der-reiskoch.de/wissenswertes/thai-food-woerterbuch/): Thai-Wörterbuch mit Umschriften
+- [Thailändische Süßspeisen](https://www.der-reiskoch.de/wissenswertes/thailaendische-suessspeisen/): Thai-Desserts und Süßspeisen
+- [Zwölf vegetarische Thai Gerichte](https://www.der-reiskoch.de/wissenswertes/zwoelf-vegetarische-thai-gerichte/): Vegetarische Thai-Küche
+- [Thailändische Salate](https://www.der-reiskoch.de/wissenswertes/thailaendische-salate-die-grosse-uebersicht/): Große Übersicht der Thai-Salate
+- [Zubereitungsmethoden der Thai-Küche](https://www.der-reiskoch.de/wissenswertes/zubereitungsmethoden-der-thai-kueche/): Thai-Kochtechniken erklärt
+- [Tischsitten in Thailand](https://www.der-reiskoch.de/wissenswertes/tischsitten-in-thailand/): Tischmanieren und Essgewohnheiten in Thailand
+- [Thailändische Currypasten](https://www.der-reiskoch.de/zutaten/thailaendische-currypasten/): Guide zu Thai-Currypasten
+- [Wichtige Zutaten für die Thai-Küche](https://www.der-reiskoch.de/zutaten/wichtige-zutaten-fur-die-thai-kuche/): Schlüsselzutaten der Thai-Küche
+- [Thai Food Festivals 2026](https://www.der-reiskoch.de/thai-festivals/thai-food-festivals-2026/): Aktuelle Thai-Food-Festival-Übersicht
+
+## Wissenswertes & Artikel
+
+- [Landesküchen auf meinem Blog](https://www.der-reiskoch.de/wissenswertes/landeskuechen-auf-meinem-blog/): Übersicht der asiatischen Regionalküchen auf diesem Blog
+- [Häufige Fragen zur asiatischen Küche](https://www.der-reiskoch.de/wissenswertes/haeufige-fragen-zur-asiatischen-kueche/): FAQ zur asiatischen Küche
+- [Die vielfältige Shan-Küche](https://www.der-reiskoch.de/reisen/die-vielfaltige-shan-kuche/): Einführung in die Shan-Küche (Myanmar)
+- [Die vielfältige Khmer-Küche](https://www.der-reiskoch.de/reisen/die-vielfaeltige-khmer-kueche/): Einführung in die Khmer-Küche (Kambodscha)
+- [24 Kochbücher aus meinem Bücherregal](https://www.der-reiskoch.de/wissenswertes/24-kochbuecher-aus-meinem-buecherregal/): Kochbuchempfehlungen
+- [Einige Geschenkideen für Hobbyköche](https://www.der-reiskoch.de/wissenswertes/einige-geschenkideen-fuer-hobbykoeche/): Geschenkideen für Kochbegeisterte
+
+## Zutaten & Speisekammer
+
+- [Zutatenliste von A bis Z](https://www.der-reiskoch.de/zutaten/zutatenliste-von-a-bis-z/): Vollständiger A–Z-Index asiatischer Zutaten
+- [Ein paar Worte über Fischsoße](https://www.der-reiskoch.de/zutaten/ein-paar-worte-uber-fischsosse/): Guide zu Fischsoßen-Varianten
+- [Sojasoße nach Ländern](https://www.der-reiskoch.de/zutaten/sojasosse-eine-uebersicht-nach-laendern/): Länderspezifische Übersicht der Sojasoßen
+- [Im Dickicht des Blattgemüses](https://www.der-reiskoch.de/zutaten/im-dickicht-des-blattgemueses/): Guide zum asiatischen Blattgemüse
+- [Die vielfältige Welt der asiatischen Pilze](https://www.der-reiskoch.de/zutaten/die-vielfaeltige-welt-der-asiatischen-pilze/): Guide zu asiatischen Pilzen
+- [Einige Burmesische Zutaten](https://www.der-reiskoch.de/zutaten/einige-burmesische-zutaten/): Überblick burmesischer Zutaten
